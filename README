@@ -1,7 +1,7 @@
 ImagesTiles Sencha Touch (2.0) component for displaying nested data as tiles.
 
 This component is extended version of official Ext.NestedList component.
-Has a same configuration with some impruvments.
+Has a same configuration with some improvements.
 
 Features:
 - Component for displaying nested data as images tiles
