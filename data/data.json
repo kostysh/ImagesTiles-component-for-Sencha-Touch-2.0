@@ -1,0 +1,128 @@
+{
+    "items": [
+        {
+            "text": "Fish",
+            "description": "Sea fish",
+            "src": "resources/images/fish.jpg",
+            "leaf": true
+        },
+        {
+            "text": "Giraffes",
+            "description": "Giraffe from Africa",
+            "src": "resources/images/giraffe-1.jpg",
+            
+            "items": [
+                {
+                    "text": "Giraffe 2",
+                    "description": "Giraffe from Africa",
+                    "src": "resources/images/giraffe-2.jpg",
+                    "leaf": true
+                },
+                {
+                    "text": "Giraffe 3",
+                    "description": "Giraffe from Africa",
+                    "src": "resources/images/giraffe-3.jpg",
+                    
+                    "items": [
+                        {
+                            "text": "Giraffe 4",
+                            "description": "Giraffe from Africa",
+                            "src": "resources/images/giraffe-4.jpg",
+                            "leaf": true
+                        },
+                        {
+                            "text": "Giraffe 5",
+                            "description": "Giraffe from Africa",
+                            "src": "resources/images/giraffe-5.jpg",
+                            "leaf": true
+                        },
+                        {
+                            "text": "Giraffe 6",
+                            "description": "Giraffe from Africa",
+                            "src": "resources/images/giraffe-6.jpg",
+                            "leaf": true
+                        }
+                    ]
+                },
+                {
+                    "text": "Giraffe 7",
+                    "description": "Giraffe from Africa",
+                    "src": "resources/images/giraffe-7.jpg",
+                    "leaf": true
+                }
+            ]
+        },
+        {
+            "text": "Snowboarder",
+            "description": "Snowboarder in air",
+            "src": "resources/images/snowboarder.jpg",
+            "leaf": true
+        },
+        {
+            "text": "Lions",
+            "description": "Lion from Africa",
+            "src": "resources/images/lion-1.jpg",
+            
+            "items": [
+                {
+                    "text": "Lion 2",
+                    "description": "Lion from Africa",
+                    "src": "resources/images/lion-2.jpg",
+                    "leaf": true
+                },
+                {
+                    "text": "Lion 3",
+                    "description": "Lion from Africa",
+                    "src": "resources/images/lion-3.jpg",
+                    "leaf": true
+                }
+            ]
+        },
+        {
+            "text": "Motorcycles",
+            "description": "Cool motorcycle",
+            "src": "resources/images/motorcycle-1.jpg",
+            
+            "items": [
+                {
+                    "text": "Motorcycle 2",
+                    "description": "Cool motorcycle",
+                    "src": "resources/images/motorcycle-2.jpg",
+                    "leaf": true
+                }
+            ]
+        },
+        {
+            "text": "Skating",
+            "description": "Skating on ice",
+            "src": "resources/images/skating.jpg",
+            "leaf": true
+        },
+        {
+            "text": "Water",
+            "description": "Water",
+            "src": "resources/images/water-1.jpg",
+            
+            "items": [
+                {
+                    "text": "Water 2",
+                    "description": "Water",
+                    "src": "resources/images/water-2.jpg",
+                    "leaf": true
+                },
+                {
+                    "text": "Water 3",
+                    "description": "Water",
+                    "src": "resources/images/water-3.jpg",
+                    "leaf": true
+                },
+                {
+                    "text": "Water 4",
+                    "description": "Water",
+                    "src": "resources/images/water-4.jpg",
+                    "leaf": true
+                }
+            ]
+        }        
+    ]		
+}

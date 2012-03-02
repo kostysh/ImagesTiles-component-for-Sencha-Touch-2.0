@@ -1,0 +1,39 @@
+.cs-tilesdataview {
+    
+}
+
+.cs-imagetile {
+    float: left;
+    display: inline-block;
+    background: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-top: 12px;
+    margin-left: 12px;    
+    -webkit-box-shadow: 1px 1px 3px rgba(2,2,2,0.8);
+}
+
+.cs-tile-selected {
+    -webkit-box-shadow:  1px 1px 4px rgba(25,133,208,0.9);
+}
+
+.cs-tile-pressed {
+    -webkit-animation-name: onPressed;
+    -webkit-animation-duration: 10s;
+    -webkit-animation-iteration-count: 1;
+}
+
+@-webkit-keyframes onPressed {
+    from {
+        -webkit-transform: scale(1);
+        -webkit-box-shadow: 1px 1px 2px #222;
+    }
+    0.3% {
+        -webkit-transform: scale(0.9);
+        -webkit-box-shadow: 1px 1px 0px #222;
+    }
+    to {
+        -webkit-transform: scale(0.9);
+        -webkit-box-shadow: 1px 1px 0px #222;
+    }
+}

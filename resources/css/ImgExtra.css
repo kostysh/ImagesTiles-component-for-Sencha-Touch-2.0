@@ -1,0 +1,13 @@
+.cs-image-title {
+    position: absolute;
+    bottom: 0;
+    margin-bottom: -18px;
+    width: 100%;
+    text-align: center;
+    font-size: .7em;
+    color: #293e56;
+}
+
+.cs-image-hastitle {
+    margin-bottom: 16px;
+}
